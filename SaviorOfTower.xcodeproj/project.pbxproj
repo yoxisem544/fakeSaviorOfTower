@@ -7,12 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6303E8DF1B25FCE900361DE8 /* dis2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6303E8DE1B25FCE900361DE8 /* dis2.mp3 */; };
+		63D825381B1CA6530081DC32 /* tick(1).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63D825371B1CA6530081DC32 /* tick(1).mp3 */; };
+		63D8CFB81B2569F700ABDDF9 /* animateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63D8CFB71B2569F700ABDDF9 /* animateViewController.swift */; };
 		63FAAAF81B1C637900CDE438 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63FAAAF71B1C637900CDE438 /* AppDelegate.swift */; };
 		63FAAAFA1B1C637900CDE438 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63FAAAF91B1C637900CDE438 /* ViewController.swift */; };
 		63FAAAFD1B1C637900CDE438 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63FAAAFB1B1C637900CDE438 /* Main.storyboard */; };
 		63FAAAFF1B1C637900CDE438 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63FAAAFE1B1C637900CDE438 /* Images.xcassets */; };
 		63FAAB021B1C637900CDE438 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 63FAAB001B1C637900CDE438 /* LaunchScreen.xib */; };
 		63FAAB0E1B1C637900CDE438 /* SaviorOfTowerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63FAAB0D1B1C637900CDE438 /* SaviorOfTowerTests.swift */; };
+		63FAAB1D1B1C719100CDE438 /* light.png in Resources */ = {isa = PBXBuildFile; fileRef = 63FAAB171B1C719100CDE438 /* light.png */; };
+		63FAAB1E1B1C719100CDE438 /* dark.png in Resources */ = {isa = PBXBuildFile; fileRef = 63FAAB181B1C719100CDE438 /* dark.png */; };
+		63FAAB1F1B1C719100CDE438 /* heart.png in Resources */ = {isa = PBXBuildFile; fileRef = 63FAAB191B1C719100CDE438 /* heart.png */; };
+		63FAAB201B1C719100CDE438 /* wood.png in Resources */ = {isa = PBXBuildFile; fileRef = 63FAAB1A1B1C719100CDE438 /* wood.png */; };
+		63FAAB211B1C719100CDE438 /* water.png in Resources */ = {isa = PBXBuildFile; fileRef = 63FAAB1B1B1C719100CDE438 /* water.png */; };
+		63FAAB221B1C719100CDE438 /* fire.png in Resources */ = {isa = PBXBuildFile; fileRef = 63FAAB1C1B1C719100CDE438 /* fire.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,6 +35,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6303E8DE1B25FCE900361DE8 /* dis2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dis2.mp3; sourceTree = "<group>"; };
+		63D825371B1CA6530081DC32 /* tick(1).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "tick(1).mp3"; sourceTree = "<group>"; };
+		63D8CFB71B2569F700ABDDF9 /* animateViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = animateViewController.swift; sourceTree = "<group>"; };
 		63FAAAF21B1C637900CDE438 /* SaviorOfTower.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SaviorOfTower.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		63FAAAF61B1C637900CDE438 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		63FAAAF71B1C637900CDE438 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -36,6 +48,12 @@
 		63FAAB071B1C637900CDE438 /* SaviorOfTowerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SaviorOfTowerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		63FAAB0C1B1C637900CDE438 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		63FAAB0D1B1C637900CDE438 /* SaviorOfTowerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaviorOfTowerTests.swift; sourceTree = "<group>"; };
+		63FAAB171B1C719100CDE438 /* light.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = light.png; sourceTree = "<group>"; };
+		63FAAB181B1C719100CDE438 /* dark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dark.png; sourceTree = "<group>"; };
+		63FAAB191B1C719100CDE438 /* heart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = heart.png; sourceTree = "<group>"; };
+		63FAAB1A1B1C719100CDE438 /* wood.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wood.png; sourceTree = "<group>"; };
+		63FAAB1B1B1C719100CDE438 /* water.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = water.png; sourceTree = "<group>"; };
+		63FAAB1C1B1C719100CDE438 /* fire.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fire.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +80,14 @@
 				63FAAAF41B1C637900CDE438 /* SaviorOfTower */,
 				63FAAB0A1B1C637900CDE438 /* SaviorOfTowerTests */,
 				63FAAAF31B1C637900CDE438 /* Products */,
+				63FAAB171B1C719100CDE438 /* light.png */,
+				63FAAB181B1C719100CDE438 /* dark.png */,
+				63FAAB191B1C719100CDE438 /* heart.png */,
+				63FAAB1A1B1C719100CDE438 /* wood.png */,
+				63FAAB1B1B1C719100CDE438 /* water.png */,
+				63FAAB1C1B1C719100CDE438 /* fire.png */,
+				63D825371B1CA6530081DC32 /* tick(1).mp3 */,
+				6303E8DE1B25FCE900361DE8 /* dis2.mp3 */,
 			);
 			sourceTree = "<group>";
 		};
@@ -80,6 +106,7 @@
 				63FAAAF71B1C637900CDE438 /* AppDelegate.swift */,
 				63FAAAF91B1C637900CDE438 /* ViewController.swift */,
 				63FAAAFB1B1C637900CDE438 /* Main.storyboard */,
+				63D8CFB71B2569F700ABDDF9 /* animateViewController.swift */,
 				63FAAAFE1B1C637900CDE438 /* Images.xcassets */,
 				63FAAB001B1C637900CDE438 /* LaunchScreen.xib */,
 				63FAAAF51B1C637900CDE438 /* Supporting Files */,
@@ -192,9 +219,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				63FAAB1D1B1C719100CDE438 /* light.png in Resources */,
+				63FAAB1E1B1C719100CDE438 /* dark.png in Resources */,
+				63FAAB221B1C719100CDE438 /* fire.png in Resources */,
 				63FAAAFD1B1C637900CDE438 /* Main.storyboard in Resources */,
 				63FAAB021B1C637900CDE438 /* LaunchScreen.xib in Resources */,
+				63FAAB1F1B1C719100CDE438 /* heart.png in Resources */,
+				6303E8DF1B25FCE900361DE8 /* dis2.mp3 in Resources */,
 				63FAAAFF1B1C637900CDE438 /* Images.xcassets in Resources */,
+				63FAAB201B1C719100CDE438 /* wood.png in Resources */,
+				63FAAB211B1C719100CDE438 /* water.png in Resources */,
+				63D825381B1CA6530081DC32 /* tick(1).mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -214,6 +249,7 @@
 			files = (
 				63FAAAFA1B1C637900CDE438 /* ViewController.swift in Sources */,
 				63FAAAF81B1C637900CDE438 /* AppDelegate.swift in Sources */,
+				63D8CFB81B2569F700ABDDF9 /* animateViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -411,6 +447,7 @@
 				63FAAB131B1C637900CDE438 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		63FAAB141B1C637900CDE438 /* Build configuration list for PBXNativeTarget "SaviorOfTowerTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +456,7 @@
 				63FAAB161B1C637900CDE438 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
